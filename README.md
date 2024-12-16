@@ -11,8 +11,11 @@ Deployed and managed a scalable, secure, and high-availability infrastructure on
 Technologies Used :
 
 Terraform: For automating cloud infrastructure deployment.
+
 AWS Services: EC2, VPC, Subnets, ALB, S3, Security Groups.
+
 Bash Scripting: Used for automating server setup and configuration.
+
 Apache Web Server: To serve web applications.
 
 Steps to configure :
