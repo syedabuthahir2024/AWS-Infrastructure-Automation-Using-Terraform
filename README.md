@@ -6,12 +6,7 @@ This project showcases the deployment and management of a scalable, secure, and 
 
 Key Highlights :
 
-VPC Design: Created a Virtual Private Cloud (VPC) with public subnets, an internet gateway, and custom route tables for seamless communication.
-EC2 Provisioning: Automated the provisioning of EC2 instances using Terraform, configured with user data scripts to host web applications running on Apache.
-Application Load Balancer (ALB): Set up an ALB to distribute traffic across EC2 instances for high availability and fault tolerance.
-Reusable Terraform Modules: Developed modular Terraform scripts for consistent and efficient deployment of AWS resources, including S3 buckets and security groups.
-Health Monitorin: Configured target groups for health checks, ensuring optimized application performance.
-AWS CLI Integration: Utilized AWS CLI to dynamically retrieve instance metadata and improve server functionality.
+Deployed and managed a scalable, secure, and high-availability infrastructure on AWS using Terraform, showcasing expertise in Infrastructure as Code (IaC). Designed a Virtual Private Cloud (VPC) with public subnets, an internet gateway, and custom route tables to enable efficient network communication. Configured EC2 instances using custom user data scripts to host web applications with Apache, ensuring automated server setup and consistent deployment. Implemented an Application Load Balancer (ALB) to distribute traffic across multiple EC2 instances, achieving redundancy and fault tolerance. Developed reusable Terraform modules to automate provisioning of key AWS resources, including S3 buckets, ALB configurations, and security groups with controlled ingress and egress rules. Created and attached target groups to the ALB for monitoring application health and optimizing performance. Additionally, leveraged the AWS CLI within user data scripts to dynamically retrieve instance metadata and enhance server functionality. Key technologies utilized include Terraform, AWS (EC2, VPC, Subnets, ALB, S3, Security Groups), Bash scripting, and the Apache web server.
 
 Technologies Used :
 
